@@ -36,12 +36,6 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Syst
 - User-friendly interface for event creation and management
 - **Tech Stack:** TypeScript, React, Node.js
 
-### 💬 [QNA-EditorsV3](https://github.com/Osama-oo1909415/QNA-EditorsV3)
-**Q&A Platform with Advanced Editor** - Interactive knowledge sharing platform
-- Real-time editing capabilities
-- Community-driven content management
-- **Tech Stack:** JavaScript, HTML5, CSS3
-
 ### 🏢 [EventManagement](https://github.com/Osama-oo1909415/EventManagement)
 **Professional Event Management Website** - Built with Umbraco CMS
 - Corporate event management solution
@@ -60,11 +54,6 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Syst
 - Memory management solutions
 - **Tech Stack:** C, System Programming
 
-### 🌟 [AnaSudani 2.0](https://github.com/Osama-oo1909415/AnaSudani2.0)
-**Personal Portfolio Project** - Showcasing development skills
-- Modern responsive design
-- Interactive user experience
-- **Tech Stack:** React, TailwindCSS, JavaScript
 
 ---
 
