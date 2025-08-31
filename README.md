@@ -2,7 +2,7 @@
 I am a computer science student at Qatar University, aspiring software engineer
 🔭 I'm currently studying Web Development and Reinforcement Learning 
 🌱 I'm currently learning TypeScript & React JS
-📫 How to reach me? osamayousifeisaxo@gmail.com
+📫 How to reach me? osamayousifeisazo@gmail.com
 
 
 ## 🌐 Socials:
