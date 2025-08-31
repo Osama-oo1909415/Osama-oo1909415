@@ -14,7 +14,7 @@ I am a computer science student at Qatar University, aspiring software engineer
 
 ## 🎓 Education:
 **Bachelor of Science in Computer Science**  
-Qatar University (2022 - Present)  
+Qatar University (2022 - 2025)  
 Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems, Operating Systems, Reinforcement Learning
 
 ## 💼 Professional Summary:
